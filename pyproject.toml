@@ -1,0 +1,7 @@
+[project]
+name = "comfyui-image-filename-dataset"
+version = "0.1.0"
+description = "ComfyUI node for loading images alongside their filenames"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
